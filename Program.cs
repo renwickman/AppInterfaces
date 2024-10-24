@@ -19,8 +19,8 @@ namespace SavingInterface
       tdl.Reset();
       pm.Reset();
 
-      tdl.Display();
-      pm.Display();
+    //   tdl.Display();
+    //   pm.Display();
     }
   }
 }
