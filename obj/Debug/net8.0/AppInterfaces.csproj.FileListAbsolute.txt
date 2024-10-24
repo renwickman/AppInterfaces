@@ -12,3 +12,4 @@ C:\Users\renwi\Desktop\CsharpProjects\AppInterfaces\obj\Debug\net8.0\refint\AppI
 C:\Users\renwi\Desktop\CsharpProjects\AppInterfaces\obj\Debug\net8.0\AppInterfaces.pdb
 C:\Users\renwi\Desktop\CsharpProjects\AppInterfaces\obj\Debug\net8.0\AppInterfaces.genruntimeconfig.cache
 C:\Users\renwi\Desktop\CsharpProjects\AppInterfaces\obj\Debug\net8.0\ref\AppInterfaces.dll
+C:\Users\renwi\Desktop\CsharpProjects\AppInterfaces\obj\Debug\net8.0\AppInterfaces.sourcelink.json
